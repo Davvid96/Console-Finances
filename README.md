@@ -44,8 +44,8 @@ Your final code should print the analysis to the console.
 
 This is a screenshot of what my financial analysis looks like at the time of submission:
 
-![financial analysis screenshot](./images/financialanalysis.jpg)
+![financial analysis screenshot](./Images/financialanalysis.jpg)
 
 ## Deployment:
 
-* Following is a link to the deployed version of the Financial Analysis; The HTML index file is blank but all the results are generated via the console log: ' '
+* Following is a link to the deployed version of the Financial Analysis; The HTML index file is blank but all the results are generated via the console log: 'https://davvid96.github.io/Console-Finances/'
